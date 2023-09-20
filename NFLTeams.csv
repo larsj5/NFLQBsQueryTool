@@ -1,0 +1,33 @@
+teamID,name,conference,division,stadium
+1,new england patriots,afc,east,Gillette Stadium
+2,new york jets,afc,east,MetLife Stadium
+3,buffalo bills,afc,east,Highmark Stadium
+4,miami dolphins,afc,east,Hard Rock Stadium
+5,pittsburgh steelers,afc,north,Heinz Field
+6,baltimore ravens,afc,north,M&T Bank Stadium
+7,cincinnati bengals,afc,north,Paul Brown Stadium
+8,cleveland browns,afc,north,First Energy Stadium
+9,jacksonville jaguars,afc,south,TIAA Bank Field
+10,houston texans,afc,south,NRG Stadium
+11,indianapolis colts,afc,south,Lucas Oil Stadium
+12,tennessee titans,afc,south,Nissan Stadium
+13,los angeles chargers,afc,west,SoFi Stadium
+14,las vegas raiders,afc,west,Allegiant Stadium
+15,kansas city chiefs,afc,west,Arrowhead Stadium
+16,denver broncos,afc,west,Empower Field at Mile High
+17,new york giants,nfc,east,MetLife Stadium
+18,dallas cowboys,nfc,east,AT&T Stadium
+19,washington commanders,nfc,east,FedEx Field
+20,philadelphia eagles,nfc,east,Lincoln Financial Field
+21,green bay packers,nfc,north,Lambeau Field
+22,minnesota vikings,nfc,north,U.S Bank Stadium
+23,chicago bears,nfc,north,Soldier Field
+24,detroit lions,nfc,north,Ford Field
+25,new orleans saints,nfc,south,Mercedes-Benz Superdome
+26,atlanta falcons,nfc,south,Mercedes-Benz Stadium
+27,tampa bay buccaneers,nfc,south,Raymond James Stadium
+28,carolina panthers,nfc,south,Bank of America Stadium
+29,seattle seahawks,nfc,west,Century Link Field
+30,san francisco 49ers,nfc,west,Levi's Stadium
+31,arizona cardinals ,nfc,west,State Farm Stadium
+32,los angeles rams,nfc,west,SoFi Stadium
